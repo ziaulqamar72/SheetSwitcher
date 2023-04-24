@@ -15,7 +15,7 @@
     {
       "action": "SHOWTASKPANE",
       "key": {
-        "default": "Ctrl+j"
+        "default": "Ctrl+`"
       }
     },
     {
