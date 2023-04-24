@@ -15,13 +15,13 @@
     {
       "action": "SHOWTASKPANE",
       "key": {
-        "default": "Ctrl+Alt+Up"
+        "default": "Ctrl+j"
       }
     },
     {
       "action": "HIDETASKPANE",
       "key": {
-        "default": "Ctrl+Alt+Down"
+        "default": "Ctrl+e"
       }
     }
   ]
